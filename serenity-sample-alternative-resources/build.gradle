@@ -1,7 +1,0 @@
-ext {
-    projectDescription = 'Serenity sample resources used for testing purposes'
-}
-
-dependencies {
-    implementation "junit:junit:${junitVersion}"
-}
